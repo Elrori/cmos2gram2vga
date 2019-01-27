@@ -1,0 +1,1 @@
+This is a rewrite of https://github.com/Elrori/OV_camera_on_FPGA
